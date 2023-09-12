@@ -1,4 +1,4 @@
-# Guide on doing integrals and derivatives with in python
+# Guide on doing integrals and derivatives in python
 
 ## Source Code
 
